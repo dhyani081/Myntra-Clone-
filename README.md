@@ -1,2 +1,2 @@
-# Myntra Clone
-Created Myntra Website Clone with the help of HTML and CSS
+# Myntra Clone-react app
+Created Myntra Website react app clone with the help of HTML and CSS
